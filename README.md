@@ -8,3 +8,6 @@ I changed te file and added this line!
 
 Watch my tutorial on YouTube!
 
+## Local Development
+
+1. Open index.html in your browser.
